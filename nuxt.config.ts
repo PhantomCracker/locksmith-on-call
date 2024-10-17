@@ -29,6 +29,8 @@ export default defineNuxtConfig({
     trackOnNextTick: false, // Whether or not call trackView in Vue.nextTick
   },
   image: {
-    provider: 'vercel',
+    domains: [
+      'avatars0.githubusercontent.com'
+    ]
   }
 })
