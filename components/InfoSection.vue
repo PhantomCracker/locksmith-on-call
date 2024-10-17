@@ -29,7 +29,7 @@ export default {
       background-repeat: no-repeat;
     }
     h5 {
-      color: #B30000;
+      color: #3CB371;
     }
     h2 {
       color: black;

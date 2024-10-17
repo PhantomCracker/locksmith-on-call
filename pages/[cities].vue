@@ -73,7 +73,7 @@ useHead({
 h1 {
   font-size: 2.5rem;
   &.with-border {
-    border-left: 10px solid #B30000;
+    border-left: 10px solid #3CB371;
     padding-left: 25px;
     @media (max-width: 700px) {
       font-size: 3.5rem;
@@ -81,7 +81,7 @@ h1 {
   }
 }
 .btn-primary {
-  background-color: #B30000 !important;
+  background-color: #3CB371 !important;
   border: none;
   &:focus, :active, :target, :visited {
     border: none;

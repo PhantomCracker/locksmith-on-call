@@ -87,7 +87,7 @@ ul {
   li {
     list-style-type: '✓';
     text-align: left;
-    color: #B30000;
+    color: #3CB371;
     padding-left: 10px;
     a {
       text-decoration: none;

@@ -97,7 +97,7 @@
       border: none;
       border-bottom: 1px solid #ededed;
       .card-body {
-        border-left: 10px solid #B30000;
+        border-left: 10px solid #3CB371;
         padding: 0;
         display: flex;
         flex-direction: column;
@@ -133,7 +133,7 @@
       }
     }
     .btn-primary {
-      background-color: #B30000 !important;
+      background-color: #3CB371 !important;
       border: none;
       border-radius: 0;
       &:focus, :active, :target, :visited {

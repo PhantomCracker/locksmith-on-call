@@ -5,7 +5,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 pt-5 pb-4">
-          <h2 class="text-center" style="color: #B30000">Why to choose Local Locksmith 4 All</h2>
+          <h2 class="text-center" style="color: #3CB371">Why to choose Local Locksmith 4 All</h2>
         </div>
       </div>
       <div class="row">
@@ -49,9 +49,9 @@
     .heroes-services {
       .card {
         background: rgb(44, 44, 44);
-        border: 3px dotted #B30000;
+        border: 3px dotted #3CB371;
         &:hover {
-          background: -webkit-linear-gradient(top, #B30000 0%, #ff0078 100%),-webkit-linear-gradient(right, #B30000 0%, #ff0078 100%);
+          background: -webkit-linear-gradient(top, #3CB371 0%, #ff0078 100%),-webkit-linear-gradient(right, #3CB371 0%, #ff0078 100%);
         }
         .card-text {
           color: #FFFFFF;

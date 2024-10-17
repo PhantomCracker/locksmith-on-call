@@ -5,7 +5,7 @@
         <div class="row navigation pt-3 pb-3">
             <div class="col-12 col-md-6 text-align-center">
                 <NuxtLink to="/">
-                    <img src="@/assets/logo.webp" class="logo" alt="logo" />
+                    <img src="@/assets/logo.png" class="logo" alt="logo" />
                 </NuxtLink>
             </div>
             <div class="col-12 col-md-6 pt-4 pt-md-0 d-flex align-items-center justify-content-end">
@@ -113,7 +113,7 @@
     <div class="row footer">
         <div class="col-12 col-md-6">
             <NuxtLink to="/">
-                <img src="@/assets/logo.webp" class="logo" alt="logo" />
+                <img src="@/assets/logo.png" class="logo" alt="logo" />
             </NuxtLink>
             <a href="tel:01173256595"><button class="call-now p-2">
                 CALL NOW 0117 325 6595

@@ -75,7 +75,7 @@ h1 {
   color: #fff;
 }
 .btn-primary {
-  background-color: #B30000 !important;
+  background-color: #3CB371 !important;
   border: none;
   &:focus, :active, :target, :visited {
     border: none;
