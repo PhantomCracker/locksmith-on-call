@@ -18,7 +18,7 @@ useHead({
 <template>
     <Html lang="en">
         <Head>
-            <Meta name="description" :content="`For the best locksmith near me, choose LocalLocksmith4All. We offer prompt and reliable emergency locksmith services throughout the UK. Available 24/7 for all your needs`" />
+            <Meta name="description" :content="`For the best locksmith near me, choose LocalLocksmith on call. We offer prompt and reliable emergency locksmith services throughout the UK. Available 24/7 for all your needs`" />
             <Title>Emergency locksmith near me</Title>
         </Head>
     </Html>

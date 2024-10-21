@@ -5,7 +5,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 pt-5 pb-4">
-          <h2 class="text-center" style="color: #3CB371">Why to choose Local Locksmith 4 All</h2>
+          <h2 class="text-center" style="color: #3CB371">Why to choose Local Locksmith on call</h2>
         </div>
       </div>
       <div class="row">

@@ -118,7 +118,7 @@
             <a href="tel:01173256595"><button class="call-now p-2">
                 CALL NOW 0117 325 6595
             </button></a>
-            <p>© 2024 Locksmith 4 All. All Rights Reserved.</p>
+            <p>© 2024 Locksmith on call. All Rights Reserved.</p>
         </div>
         <div class="col-12 col-md-6">
             <NuxtImg src="/images/badges/247-service-badge.webp" class="service-badge" alt="badge1"/>

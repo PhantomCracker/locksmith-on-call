@@ -24,9 +24,10 @@ export default {
     border-top: 5px solid black;
     background-color: #ECECEC;
     .info-section-man {
-      background: url('@/assets/images/infoSectionMan.webp');
+      background: url('@/assets/images/infoSectionMan.jpeg');
       background-size: cover;
       background-repeat: no-repeat;
+      max-height: 400px;
     }
     h5 {
       color: #3CB371;

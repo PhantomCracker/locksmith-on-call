@@ -61,7 +61,7 @@ import { NuxtPage } from '#build/components';
         </div>
         <hr>
         <div class="row">
-          <p><span>©  </span><span>2024</span><span> </span><span> Locksmith4all </span><span> - </span><span>All Rights Reserved.</span></p>
+          <p><span>©  </span><span>2024</span><span> </span><span> Locksmith on call </span><span> - </span><span>All Rights Reserved.</span></p>
         </div>
       </div>
     </footer>
