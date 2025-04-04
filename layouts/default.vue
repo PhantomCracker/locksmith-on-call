@@ -33,7 +33,7 @@ import { NuxtPage } from '#build/components';
           <div class="col-12 col-lg-6 align-self-center">
             <div class="justify-content-center navbar-nav pt-3">
               <div class="hero-nav-phone">
-                <a href="tel:01173256595" class="nav-link ps-3 pe-3">Call us now! <br/></a>
+                <a href="tel:03307890914" class="nav-link ps-3 pe-3">Call us now! <br/></a>
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@ import { NuxtPage } from '#build/components';
             <div class="d-md-none"><hr/></div>
             <div class="col-sm-12 col-md-6 align-self-center text-end">
               <ul>
-                  <li>PHONE: <a href="tel:01173256595"><span>01173256595</span></a></li>
+                  <li>PHONE: <a href="tel:03307890914"><span>03307890914</span></a></li>
               </ul>
             </div>
         </div>
@@ -67,7 +67,7 @@ import { NuxtPage } from '#build/components';
     </footer>
   </div>
   <!--    End Footer -->
-  <a href="tel:01173256595" class="float-phone d-md-block d-lg-none">
+  <a href="tel:03307890914" class="float-phone d-md-block d-lg-none">
     <Icon name="ph:phone-call" class="fa-phone" />
   </a>
 </template>

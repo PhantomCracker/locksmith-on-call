@@ -9,7 +9,7 @@
                 </NuxtLink>
             </div>
             <div class="col-12 col-md-6 pt-4 pt-md-0 d-flex align-items-center justify-content-end">
-                <a href="tel:01173256595" class="float-phone d-flex">
+                <a href="tel:03307890914" class="float-phone d-flex">
                     <Icon name="ph:phone-call" class="fa-phone " />
                     <div class="phone-text ps-3">
                         Call 24/7 Emergency Service
@@ -24,7 +24,7 @@
                     <h1>EMERGENCY LOCKSMITHS, CALL 24/7</h1>
                     <h2 class="pt-3">Fast Emergency Locksmiths Near You.</h2>
                     <h2 class="pt-3">Service on spot within 20 minutes</h2>
-                    <a href="tel:01173256595"><button class="call-now mt-5 p-2 mb-5">
+                    <a href="tel:03307890914"><button class="call-now mt-5 p-2 mb-5">
                         CALL NOW <br> 0117 325 6595
                     </button></a>
                 </div>
@@ -102,7 +102,7 @@
                 <li>Satisfaction guarantee</li>
                 <li class="pb-2">Expert security consultationse</li>
             </ul>
-            <a href="tel:01173256595"><button class="call-now p-2">
+            <a href="tel:03307890914"><button class="call-now p-2">
                 CALL NOW 0117 325 6595
             </button></a>
         </div>
@@ -115,7 +115,7 @@
             <NuxtLink to="/">
                 <img src="@/assets/logo.png" class="logo" alt="logo" />
             </NuxtLink>
-            <a href="tel:01173256595"><button class="call-now p-2">
+            <a href="tel:03307890914"><button class="call-now p-2">
                 CALL NOW 0117 325 6595
             </button></a>
             <p>© 2024 Locksmith on call. All Rights Reserved.</p>
@@ -132,7 +132,7 @@
     </div>
     <div class="row">
         <div class="col-12">
-            <a href="tel:01173256595"><button class="phone-call p-2">
+            <a href="tel:03307890914"><button class="phone-call p-2">
                 CALL NOW 0117 325 6595
             </button></a>
         </div>

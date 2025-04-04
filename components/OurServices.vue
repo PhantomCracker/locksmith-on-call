@@ -18,7 +18,7 @@
                 </ul>
               </div>
               <button class="btn btn-primary w-50 mt-3 mb-4">
-                <a class="text-white text-decoration-none" href="tel:01173256595"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
+                <a class="text-white text-decoration-none" href="tel:03307890914"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
               </button>
             </div>
           </div>
@@ -37,7 +37,7 @@
                 </ul>
               </div>
               <button class="btn btn-primary w-50 mt-3 mb-4">
-                <a class="text-white text-decoration-none" href="tel:01173256595"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
+                <a class="text-white text-decoration-none" href="tel:03307890914"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
               </button>
             </div>
           </div>
@@ -56,7 +56,7 @@
                 </ul>
               </div>
               <button class="btn btn-primary w-50 mt-3 mb-4">
-                <a class="text-white text-decoration-none" href="tel:01173256595"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
+                <a class="text-white text-decoration-none" href="tel:03307890914"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
               </button>
             </div>
           </div>
@@ -75,7 +75,7 @@
                 </ul>
               </div>
               <button class="btn btn-primary w-50 mt-3 mb-4">
-                <a class="text-white text-decoration-none" href="tel:01173256595"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
+                <a class="text-white text-decoration-none" href="tel:03307890914"><Icon name="ph:phone-call" class="fa-phone" />Call now</a>
               </button>
             </div>
           </div>
