@@ -13,8 +13,8 @@ useHead({
 <template>
     <Html lang="en">
         <Head>
-            <Meta name="description" :content="`24/7 emergency locksmith services in ${route.params.cities}. Locksmith on call also provide a range of services and supplies designed to improve the security of your home or business`" />
-            <Title>Locksmith in {{ route.params.cities }}</Title>
+            <Meta name="description" :content="`Emergengy locksmith services - Local Locksmith ${route.params.cities}`" />
+            <Title>Emergency Locksmith {{ route.params.cities }}</Title>
         </Head>
     </Html>
     <NuxtLayout>

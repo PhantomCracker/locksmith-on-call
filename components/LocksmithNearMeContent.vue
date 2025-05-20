@@ -69,7 +69,7 @@ const cities = [
     <div class="row">
       <ul class="col-12">
         <li v-for="city in cities" :key="`city-id-${city.id}`">
-          <NuxtLink :to="`/${city.name}`">{{ city.name }}</NuxtLink>
+          <NuxtLink :to="`/local-emergency-locksmith-services-${city.name}`">{{ city.name }}</NuxtLink>
         </li>
       </ul>
     </div>
